@@ -6,16 +6,16 @@
         <title>Simple JSP form </title>
     </head>
     <body>
-        <h1>Hello DevOps</h1>
+        <h1>Hello DevOps1</h1>
       <h2> Today's date: <%= (new java.util.Date()).toLocaleString()%> </h2>
         <p> </p>
    	<img src="https://3ovyg21t17l11k49tk1oma21-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/DevOps.jpg" alt="image2">
 	<p> </p>
         <form name="myForm" action="displaying.jsp" method="POST">
-                        <label for="name">Your Name:</label><br>
+                        <label for="name">Your Name_change1:</label><br>
                         <input type="text" name="StudentName" value="" size="25"> <br>
                   
-                           <label for="id">Your Id:</label><br>
+                           <label for="id">Your Id_change1:</label><br>
                         <input type="text" name="TeudatZeut" value="" size="10" <br>
                             <br>
 			<label for="Your Path">Select Your Path:</label><br>
@@ -24,7 +24,7 @@
                                 <option>Gamish</option>
                             </select>
 				<br>
-                    <label for="Your Year">Select Your Year of Study:</label><br>
+                    <label for="Your Year">Select Your Year of Study_change1:</label><br>
                         <select name="Year">
                                 <option>a</option>
                                 <option>b</option>
