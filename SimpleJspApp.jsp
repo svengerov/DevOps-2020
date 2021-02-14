@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Hello DevOps5</h1>
-      <h2> Today's date!!!!!!!!!: <%= (new java.util.Date()).toLocaleString()%> </h2>
+      <h2> Today's date!!!!!!!!!!!!!!!: <%= (new java.util.Date()).toLocaleString()%> </h2>
         <p> </p>
    	<img src="https://3ovyg21t17l11k49tk1oma21-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/DevOps.jpg" alt="image2">
 	<p> </p>
